@@ -1,6 +1,6 @@
 # ICS4U Final Project – Resume Builder
 
-This Java-based program is an interactive resume builder. It accepts user input based on various prompts and works with the user step-by-step to create a resume in the Java console.
+This is a Java-based Resume Builder application created for the ICS4U final project. It allows users to input and manage their resume data such as education, work experience, custom sections, and summary details. The application organizes this data and formats it into a structured resume in the Java console.
 
 ---
 

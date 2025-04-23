@@ -1,38 +1,42 @@
 # ICS4U Final Project – Resume Builder
 
-This is a Java-based Resume Builder application created for the ICS4U final project. It allows users to input and manage their resume data such as education, work experience, custom sections, and summary details. The application organizes this data and formats it into a structured resume.
-
-## ▶️ Demo Video
-
-Watch a full walkthrough of the Resume Builder [here](https://youtu.be/l_4ur4XKv8I).
-
-## 📄 Project Report
-
-For a detailed explanation of the program structure, how it works, and answers to reflection questions, check out the final project report [here](ICS4U_FP_Final_Farhaan_Ali.pdf).
+This Java-based program is an interactive resume builder. It accepts user input based on various prompts and works with the user step-by-step to create a resume in the Java console.
 
 ---
 
-## Features
+## ▶️ Demo
 
-- Console-based interface for user interaction
-- Add and edit:
+[YouTube Demo](https://www.youtube.com/watch?v=l_4ur4XKv8I)
+
+---
+
+## 📄 Project Report
+
+For an in-depth explanation of the program's logic, challenges, and reflections:  
+[Final Project Report (PDF)](ICS4U_FP_Final_Farhaan_Ali.pdf)
+
+---
+
+### How It Works
+
+- Users are prompted to enter their basic contact details (name, phone number, location, email).
+- The program works with the user step by step as they enter prompts to complete various categories of the resume.
+- The resume is saved as a `.txt` file named after the name given (e.g. `John Doe - Resume.txt`).
+- Various categories include:
   - **Summary**
   - **Education**
+  - **Skills**
+  - **Highlights**
   - **Experience**
-  - **Custom Sections**
-- Uses custom `LinkedList` and `Queue` implementations
-- Outputs a neatly formatted resume to the console
+  - **Other Interests**
+  - **Competitions**
+  - **Custom** sections (user-defined)
 
-## Getting Started
+---
 
-### Prerequisites
+## Running the Program
 
-- Java 8 or higher
-- IDE or terminal to compile and run `.java` files
-
-### Running the Program
-
-Make sure all .java files are in the same folder. Then, compile and run ICS4U_FP_Resume_Builder.java, which is the main file that starts the program.
+Make sure all `.java` files are in the same folder. Then, compile and run ICS4U_FP_Resume_Builder.java, which is the main file that starts the program.
 
 ```bash
 javac ICS4U_FP_Resume_Builder.java

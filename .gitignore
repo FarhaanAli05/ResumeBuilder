@@ -1,0 +1,12 @@
+# Compiled class files
+*.class
+
+# Eclipse build output
+bin/
+
+# Eclipse project files
+.classpath
+.project
+
+# macOS system files
+.DS_Store

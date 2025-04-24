@@ -2,11 +2,11 @@
 
 This is a Java-based Resume Builder application created for the ICS4U final project. It guides the user through entering resume sections such as education, work experience, skills, and more. The application organizes this data and formats it into a structured resume.
 
-## ▶️ Demo Video
+## Demo Video
 
 Watch a full walkthrough of the Resume Builder [here](https://youtu.be/l_4ur4XKv8I).
 
-## 📄 Project Report
+## Project Report
 
 For a detailed explanation of the program structure, how it works, and answers to reflection questions, check out the final project report:
 

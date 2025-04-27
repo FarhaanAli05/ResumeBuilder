@@ -33,12 +33,6 @@ The PDF (`ICS4U_FP_Final_Farhaan_Ali.pdf`) contains the final project write-up a
 - Automatic formatting with clean borders and line length limits
 - Output saved as a `.txt` file named after the user
 
-### Running the Program
+---
 
-1. Make sure `Resume Template.txt` and the `src/` folder are in the same directory.
-2. Open terminal or command prompt in that directory.
-3. Compile and run the program:
-
-```bash
-javac -d bin src/*.java
-java -cp bin ICS4U_FP_Resume_Builder
+When running the program, make sure `Resume Template.txt` and the `src/` folder are in the same directory.

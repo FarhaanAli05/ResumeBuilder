@@ -1,6 +1,6 @@
-# ICS4U Final Project – Resume Builder
+# Resume Builder (ICS4U Final Project)
 
-This is a Java-based Resume Builder application created for the ICS4U final project. It guides the user through entering resume sections such as education, work experience, skills, and more. The application organizes this data and formats it into a structured resume.
+The Resume Builder is a Java-based program that allows the user to create a professional, structured resume in the Java console.
 
 ## Demo Video
 
@@ -26,13 +26,16 @@ The PDF (`ICS4U_FP_Final_Farhaan_Ali.pdf`) contains the final project write-up a
 ## Features
 
 - Interactive console prompts for easy input
-- Add up to **6 different resume sections** (Summary, Education, Experience, Skills, etc.)
-- Optional sample content for inspiration
-- Custom sections supported
-- Resume preview during creation
-- Automatic formatting with clean borders and line length limits
+- Add up to 6 different resume sections via prompts; custom sections are supported
+- Can preview the resume during creation
 - Output saved as a `.txt` file named after the user
+- Optional sample content for inspiration
+- Automatic formatting with clean borders and line length limits
 
----
+## Concepts Used
 
-When running the program, make sure `Resume Template.txt` and the `src/` folder are in the same directory.
+- Object-oriented programming (OOP)
+- Inheritance
+- Linked List and Queue data structures
+- String manipulation and formatting
+- File output (writing the finished resume to a `.txt` file
